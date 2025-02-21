@@ -2,7 +2,7 @@
 
 A React-based web application that processes arrays of strings, separating numbers and alphabets, and identifying the highest alphabetical character. Built for the Bajaj Finserv Health Limited technical assessment.
 
-![BFHL Data Processor](https://ibb.co/ksNGvdYW)
+![BFHL Data Processor](https://i.ibb.co/Q3yJt5s1/Screenshot-2025-02-21-231749.png)
 
 ## 🌟 Features
 
